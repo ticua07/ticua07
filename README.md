@@ -2,4 +2,4 @@
 - 👀 I’m interested in working with back-end technologies like Flask and also front-end with React
 - 🌱 I’m currently learning React and web skills (HTML, CSS, JS) as my skills aren't good enough still to make a website without Bootstrap nor Google 😓😓
 - 📫 You can reach me on Discord, as `old.Ticua#3251`
-- 📛 Not interested in working in big projects, I'm not really that good at Javascript nor Python to work
+- 📛 Not interested in working in big projects, I'm not really that good at Javascript nor Python to work yet
