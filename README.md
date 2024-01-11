@@ -1,4 +1,5 @@
 - 👋 Hi, I’m ticua07
 - 👀 I’m interested in working with back-end technologies like Flask and also front-end with React
+- 📚 I'm fluent with English (B2) and Spanish (native language)
 - 🌱 I’m currently learning ReactJS, Svelte and web technologies (HTML, CSS, JS)
 - 📫 You can reach me on Discord, as `Ticua` or sending me an email `ticua@ticua.ar`
