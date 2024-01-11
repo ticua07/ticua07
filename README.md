@@ -1,4 +1,4 @@
 - 👋 Hi, I’m ticua07
 - 👀 I’m interested in working with back-end technologies like Flask and also front-end with React
 - 🌱 I’m currently learning ReactJS, Svelte and web technologies (HTML, CSS, JS)
-- 📫 You can reach me on Discord, as `Ticua#3251` or send me an email at `ticua@ticua.ar`
+- 📫 You can reach me on Discord, as `Ticua` or send me an email at `ticua@ticua.ar`
