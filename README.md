@@ -3,4 +3,4 @@ I'm a `front-end` web developer, specialized in React, NextJS, Svelte and recent
 
 - 📫 You can find me on Discord as `Ticua` or sending me an email `ticua07@gmail.com` (I prefer Discord)
 
-![Ticua07's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliyya&layout=compact&theme=gotham)
+![Ticua07's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ticua07&layout=compact&theme=gotham)
